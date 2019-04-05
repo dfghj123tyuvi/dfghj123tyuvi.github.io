@@ -1,4 +1,5 @@
 # dfghj123tyuvi.io
 我是安德。Getter Bang Bang
 <hr/>
-<class bottom=ask>
+# For 安德
+
