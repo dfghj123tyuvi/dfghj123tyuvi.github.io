@@ -7,9 +7,8 @@
 <hr/>
 我总不明白我到底是一个什么样的人。但也许日后总会明白的吧
 # More
-<div class="body" id="body">
-　　　    </div> 
-　　　    <div id="input">
-　　　        　<input type="text" id="write" placeholder="说点什么吧..." />
-　　　        　<button id="send">发送</button>
-　　　    </div>
+<div class="body" id="body"><bottom id=寻找></div> 
+　　　    
+　　　  
+　　　        　
+　　　    
