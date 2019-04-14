@@ -7,4 +7,5 @@
 <hr/>
 >联系方式
 
-<div>- Gmail：ande22779@gmail.com<div/><div>- QQ:2729208865<div/>
+><div>- Gmail：ande22779@gmail.com<div/>
+  <div>- QQ:2729208865<div/>
