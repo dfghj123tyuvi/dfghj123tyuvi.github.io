@@ -13,5 +13,5 @@
     <li>安德的邮箱：<a href="mailto:ande22779@gmail.com">ande22779@gmail.com</a></li>
   </ul>
 </blockquote>
-<textarea cols="30" rows="5">说点什么吧
-</textarea>
+<h2 id="Feedback">Feedback<input type="submit" value="发送"><input type="reset" value="重置">
+<textarea cols="30" rows="5">说点什么吧</textarea>
