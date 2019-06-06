@@ -13,6 +13,6 @@
   </ul>
 </blockquote>
 <h2 id="Feedback">Feedback</h2>
-<form action="MAILTO:2729208865@qq.com" method="post" enctype="text/plain">
+<form action="MAILTO:someone@2729208865@qq.com" method="post" enctype="text/plain">
 <input type="submit" value="发送"><input type="reset" value="重置">
 <textarea cols="30" rows="5">说点什么吧</textarea><form/>
