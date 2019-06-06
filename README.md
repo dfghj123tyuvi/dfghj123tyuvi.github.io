@@ -22,3 +22,6 @@
 <textarea cols="20" rows="5">说点什么吧</textarea>
 <form action="mailto:someone@2729208865@qq.com" method="post" enctype="text/plain">
 <input type="submit" value="发送"><input type="reset" value="重置"><form/>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">Time</button>
+<p id="demo"></p>
