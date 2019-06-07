@@ -17,5 +17,7 @@
     <li>安德的邮箱：<a href="mailto:2729208865@qq.com">2729208865@qq.com</a></li>
     <li>安德的邮箱：<a href="mailto:ande22779@gmail.com">ande22779@gmail.com</a></li>
   </ul>
-</blockquote><hr/>
-<button type="button"onclick="document.getElementById('demo').innerHTML = Date()">Time</button><p id="demo"></p>
+</blockquote><hr/><form>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">Time</button>
+  <p id="demo"></p></form>
