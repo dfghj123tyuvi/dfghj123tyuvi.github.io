@@ -1,1 +1,18 @@
 theme: jekyll-theme-slate
+const gitment = new Gitment({
+  id: 'Your page ID', // optional
+  owner: 'dfghj123tyuvi',
+  repo: 'odk',
+  oauth: {
+    client_id: 'a62e2cc2c91ea39ab641',
+    client_secret: 'e6be01226b8a16bbea54dbfe438effe80cbbbacd',
+  },
+  // ...
+  // For more available options, check out the documentation below
+})
+
+gitment.render('comments')
+// or
+// gitment.render(document.getElementById('comments'))
+// or
+// document.body.appendChild(gitment.render())
