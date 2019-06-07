@@ -16,3 +16,18 @@ gitment.render('comments')
 // gitment.render(document.getElementById('comments'))
 // or
 // document.body.appendChild(gitment.render())
+GET: https://api.github.com/repos/jangdelong/blog_comments/issues 
+
+GET: https://api.github.com/repos/jangdelong/blog_comments/issues/11 
+
+GET: https://api.github.com/repos/jangdelong/blog_comments/issues/11/comments 
+
+GET: https://api.github.com/repos/jangdelong/blog_comments/issues/comments/111/reactions 
+
+POST: https://api.github.com/repos/jangdelong/blog_comments/issues
+
+POST: https://api.github.com/repos/jangdelong/blog_comments/issues/11/comments 
+
+POST: https://api.github.com/repos/jangdelong/blog_comments/issues/comments/111/reactions 
+
+POST：https://developer.github.com/v3/markdown/ markdown 
