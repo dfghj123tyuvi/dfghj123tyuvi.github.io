@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [For Ander]
 description: [This my homepage.Welcome!]
-logo: [https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560054337326&di=54b5e617b8886eecd0e1ff476e6fb30a&imgtype=0&src=http%3A%2F%2Fwww.urcities.com%2Fu%2Fcms%2Fwww%2F201509%2F02162709ugc1.jpg]
+logo: [src=https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560054337326&di=54b5e617b8886eecd0e1ff476e6fb30a&imgtype=0&src=http%3A%2F%2Fwww.urcities.com%2Fu%2Fcms%2Fwww%2F201509%2F02162709ugc1.jpg]
 show_downloads: ["false" ]
 google_analytics: [Your Google Analytics tracking ID]
 
