@@ -1,5 +1,5 @@
 # For Ander
-您好，这里是安德的主页。Getter Bang Bang
+您好，欢迎来到安德的主页。Getter Bang Bang
 <hr/>
 <div>你是个经常在镁光灯下的人。死了以后，你会希望人们怎么记得你呢？尤其是被下列人怎么记得：<div/>
 <div>1.你的读者；2.你的国人；3.我。<div/>
