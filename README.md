@@ -10,7 +10,7 @@
 <h2 id="More">More</h2>
 <blockquote>
   <ul>
-    <li><h2 id="Project"><a herf="https://dfghj123tyuvi.github.io/projects">Projects</a></h2></li>
+    <li><h2 id="Project"><a herf="https://dfghj123tyuvi.github.io/projects"> Projects</a></h2></li>
     <li><h2 id="More information"><a href="https://dfghj123tyuvi.github.io/information"> More information</a></h2></li>
   </ul>
 </blockquote><hr/><form>
