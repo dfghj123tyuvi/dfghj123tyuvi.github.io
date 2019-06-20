@@ -7,11 +7,12 @@
 <h2 id="About">About</h2>
 <form><input type="button" value="Hello world!" style="font-family:verdana;color:Blue"></form>
   <p>安德来自中国的江西省，江西真是个人杰地灵的好地方。</p><p>和大多数人一样的，安德想过很多事情。如今的安德作为一名在校学生，能做的不多。但安德憧憬着看到所有的梦想都能在风中大声歌唱。梦里能到达的地方安德相信有一天脚步也可以到达。现在的安德对于想做的事情一知半解，但相信在不懈努力之下安德会完成安德想做的事情。拭目以待吧。该做的事情的确还有很多呀。</p><p>安得广厦千万间<br />大庇天下寒士俱欢颜<br />风雨不动安如山</p>
+<h2 id="More">More</h2>
 <blockquote>
   <ul>
-    <li><h2 id="Project">Project</h2></li><p style="font-family:Times;color:green">敬请期待</p><hr/>
-    <li><h2 id="More information">More information</h2></li>
-    </ul>
+    <li><h2 id="Project"><a herf="https://dfghj123tyuvi.github.io/projects">Projects</a></h2></li>
+    <li><h2 id="More information"><a href="https://dfghj123tyuvi.github.io/information"> More information</a></h2></li>
+  </ul>
 </blockquote><hr/><form>
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">Best wishes</button>
