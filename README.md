@@ -1,4 +1,5 @@
-##  For Ander
+     <head>
+     <meta charset="utf-8">
      <title>For Ander</title>
      <style type="text/css">
                        ul{/*设置导航栏的框框*/
@@ -29,7 +30,9 @@
 			background-color: #2f6f4f;
 		}
 	</style>
-您好，欢迎来到安德的主页。Getter Bang Bang
+<hr/>
+<h1>For Ander</h1>
+<p>您好，欢迎来到安德的主页。Getter Bang Bang</p>
 <hr/>
 <div>你是个经常在镁光灯下的人。死了以后，你会希望人们怎么记得你呢？尤其是被下列人怎么记得：<div/>
 <div>1.你的读者；2.你的国人；3.我。<div/>
