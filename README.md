@@ -1,7 +1,8 @@
-     <head>
-     <meta charset="utf-8">
+<head>
+<meta charset="utf-8">
+     
      <title>For Ander</title>
-     <style type="text/css">
+      <style type="text/css">
                        ul{/*设置导航栏的框框*/
 		 	margin: 30px auto;/*框框整体的位置，30px是指离网页的顶部和下部的距离，auto控制的是左右距离为自动调节*/
 			width: 600px;/*框框的宽度*/
@@ -28,7 +29,9 @@
 		}
 		a:hover{
 			background-color: #2f6f4f;
-		}</head>
+		}
+	</style>
+</head>
  	<div >
 		<ul class=daohang>
 			<li><a href="">首页</a></li>
@@ -39,7 +42,6 @@
 			<li><a href="">期待</a></li>
 		</ul>
 	</div>
-      </style>
 <hr/>
 <h1>For Ander</h1>
 <p>您好，欢迎来到安德的主页。Getter Bang Bang</p>
