@@ -28,8 +28,18 @@
 		}
 		a:hover{
 			background-color: #2f6f4f;
-		}
-	</style>
+		}</head>
+ 	<div >
+		<ul class=daohang>
+			<li><a href="">首页</a></li>
+			<li><a href="">介绍</a></li>
+			<li><a href="">关于</a></li>
+			<li><a href="">项目</a></li>
+			<li><a href="">更多</a></li>
+			<li><a href="">期待</a></li>
+		</ul>
+	</div>
+      </style>
 <hr/>
 <h1>For Ander</h1>
 <p>您好，欢迎来到安德的主页。Getter Bang Bang</p>
