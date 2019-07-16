@@ -6,7 +6,7 @@
                        ul{/*设置导航栏的框框*/
 		 	margin: 30px auto;/*框框整体的位置，30px是指离网页的顶部和下部的距离，auto控制的是左右距离为自动调节*/
 			width: 600px;/*框框的宽度*/
-			height: 20px;/*框框的长度*/
+			height: 50px;/*框框的长度*/
 			padding: 0px;/*将框框的padding设置为零，不然会导致框框里的内容与框边缘有间隔*/
 			border:1px solid #000;/*添加边框*/
 		}
@@ -16,7 +16,7 @@
 		}
 		a{
 			display: block;/*将a变成块状*/
-			width: 100px;/*设置块的宽度*/
+			width: 110px;/*设置块的宽度*/
 			height: 50px;/*设置块的长度*/
 			font-family: Microsoft Yahei;
 			line-height: 50px;/*设置字体在块中的高度*/
