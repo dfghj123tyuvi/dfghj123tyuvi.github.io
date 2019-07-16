@@ -1,39 +1,40 @@
+##  For Ander
 <head>
 <meta charset="utf-8">
-                     
-		     <title>For Ander</title>
-                     <style type="text/css">
+                   
+		  <title>For Ander</title>
+                    <style type="text/css">
                        
-		       ul{/*设置导航栏的框框*/
-		 	margin: 30px auto;/*框框整体的位置，30px是指离网页的顶部和下部的距离，auto控制的是左右距离为自动调节*/
-			width: 600px;/*框框的宽度*/
-			height: 350px;/*框框的长度*/
-			padding: 0px;/*将框框的padding设置为零，不然会导致框框里的内容与框边缘有间隔*/
-			border:1px solid #000;/*添加边框*/
+		  ul{/*设置导航栏的框框*/
+		 margin: 30px auto;/*框框整体的位置，30px是指离网页的顶部和下部的距离，auto控制的是左右距离为自动调节*/
+		width: 600px;/*框框的宽度*/
+		height: 350px;/*框框的长度*/
+		padding: 0px;/*将框框的padding设置为零，不然会导致框框里的内容与框边缘有间隔*/
+		border:1px solid #000;/*添加边框*/
 		}
 		li{
-			list-style-type: none;/* 去掉li前的点 */
-			float: left;/*将li设置成做浮动，变为联动*/
+		list-style-type: none;/* 去掉li前的点 */
+		float: left;/*将li设置成做浮动，变为联动*/
 		}
 		a{
-			display: block;/*将a变成块状*/
-			width: 100px;/*设置块的宽度*/
-			height: 50px;/*设置块的长度*/
-			font-family: Microsoft Yahei;
-			line-height: 50px;/*设置字体在块中的高度*/
-			background-color: #2f4f4f;
-			margin: 0px 0px;/*块里的高宽通过margin设置*/
-			color: #fff;
-			text-align: center;/*字体居中*/
-			text-decoration: none;/*去掉下划线*/
-			font-size: 15px;
+		display: block;/*将a变成块状*/
+		width: 100px;/*设置块的宽度*/
+		height: 50px;/*设置块的长度*/
+		font-family: Microsoft Yahei;
+		line-height: 50px;/*设置字体在块中的高度*/
+		background-color: #2f4f4f;
+		margin: 0px 0px;/*块里的高宽通过margin设置*/
+		color: #fff;
+		text-align: center;/*字体居中*/
+		text-decoration: none;/*去掉下划线*/
+		font-size: 15px;
 		}
 		a:hover{
 			background-color: #2f6f4f;
 		}
 	</style>
 </head>
- 	<div >
+ 	<div>
 		<ul class=daohang>
 			<li><a href="">首页</a></li>
 			<li><a href="">介绍</a></li>
@@ -42,11 +43,8 @@
 			<li><a href="">更多</a></li>
 			<li><a href="">期待</a></li>
 		</ul>
-	</div>
- 
- 
-	</table>
-##  For Ander
+</div>	
+
 您好，欢迎来到安德的主页。Getter Bang Bang
 <hr/>
 <div>你是个经常在镁光灯下的人。死了以后，你会希望人们怎么记得你呢？尤其是被下列人怎么记得：<div/>
