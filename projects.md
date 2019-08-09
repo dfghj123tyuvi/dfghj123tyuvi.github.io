@@ -1,7 +1,4 @@
 <p>如题</p>
-<h2>Canvas</h2>
-这个项目是一个画板，仅仅是为了消遣。还有就是向源代码的作者致敬。
-<p><a href="https://dfghj123tyuvi.github.io/Canvas/">Click here</a></p>
 <h2>Compulsory-English</h2>
 <p>这个项目用于高中英语的整理。欢迎玩耍。当然这是为了安德自己的学习2333</p>
 <p><a href="https://dfghj123tyuvi.github.io/Compulsory-English/">Click here</a></p>
