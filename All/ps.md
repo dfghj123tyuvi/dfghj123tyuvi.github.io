@@ -3,3 +3,4 @@
 - <a href="https://replay.pokemonshowdown.com/gen7ou-964669747">炮灰</a>
 - <a href="https://replay.pokemonshowdown.com/gen7ou-975257621">其他</a>
 - <a href="https://replay.pokemonshowdown.com/gen7ou-986227785">人品</a>
+- <a href="https://replay.pokemonshowdown.com/gen7ou-986762609">不错</a>
