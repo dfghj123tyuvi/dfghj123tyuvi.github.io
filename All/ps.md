@@ -6,3 +6,4 @@
 - <a href="https://replay.pokemonshowdown.com/gen7ou-986762609">不错</a>
 - <a href="https://replay.pokemonshowdown.com/gen7ou-986769157">还行</a>
 - <a href="https://replay.pokemonshowdown.com/gen7ou-986772337">尚可</a>
+- <a href="https://replay.pokemonshowdown.com/gen8ou-1047854102">尚可</a>
