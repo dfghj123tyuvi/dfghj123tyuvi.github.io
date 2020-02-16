@@ -8,3 +8,4 @@
 - <a href="https://replay.pokemonshowdown.com/gen7ou-986772337">尚可</a>
 - <a href="https://replay.pokemonshowdown.com/gen8ou-1047854102">尚可</a>
 - <a href="https://replay.pokemonshowdown.com/gen8ou-1063611780">八代</a>
+- <a href="https://replay.pokemonshowdown.com/gen8ou-1064022692">坚持</a>
