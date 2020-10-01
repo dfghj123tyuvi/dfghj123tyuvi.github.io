@@ -4,4 +4,4 @@
 <hr/>
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">Best wishes</button>
-  <p id="demo"></p></form>
+  <p id="demo"></p>
